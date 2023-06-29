@@ -1,0 +1,24 @@
+{
+    "nome": "Anderson Bispo",
+    "cidade": "Guarujá",
+    "idade": 25,
+    "livros_favoritos": [
+        "Duna",
+        "Pequeno Principe",
+        "O Hobbit",
+        "Senhor dos Anéis"
+    ],
+    "hobbies": {
+        "semana": "Leitura",
+        "fim_de_semana": {
+            "sábado": "Jogar Video Game",
+            "domingo": "Assistir Filmes",
+            "outros": [
+                "Jogar Futebol",
+                "Assistir Futebol",
+                "Assistir Basquete",
+                "Sair com amigos"
+            ]
+        }
+    }
+}
