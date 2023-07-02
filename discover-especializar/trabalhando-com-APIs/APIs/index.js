@@ -4,7 +4,7 @@ const app = express();
 
 app.listen("3000");
 
-let author = "Anderson"
+let author = "Anderson";
 
 //middleware
 app.use(express.json());
